@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @josewanderleyp
-2
-- 👀 I’m interested in PHP, Laravel, CodeIgniter, SASS, CSS3, HTML ( Front-End, Back-End )
-3
-- 🌱 I’m currently learning Programação,
+Olá sou o @josewanderleyp
+Me interesso por: PHP, Laravel, CodeIgniter, SASS, CSS3, HTML ( Front-End, Back-End )
 
 José Paiva, sempre gostou de exatidão, aos 16 anos descobriu um talento pela programação, 
 naquele tempo não sabia onde chegaria, mas sabia que essa espetacular profissão seria a de sua vida. 
