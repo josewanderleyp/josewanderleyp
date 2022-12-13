@@ -61,7 +61,6 @@ José Paiva, sempre gostou de exatidão, aos 16 anos descobriu um talento pela p
 <br>
 
 <p>
-    
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="react" width="50" height="50">
 </p>
 
