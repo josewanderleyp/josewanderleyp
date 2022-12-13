@@ -3,7 +3,7 @@
 [![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)](#top)
 
 ##### Hey, 👋
-### José Wanderley | 27 yo ###
+### José W. Paiva | 27 yo ###
 
 <br>
 
