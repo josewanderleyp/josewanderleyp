@@ -7,7 +7,7 @@
 
 <br>
 
-José Paiva, always liked accuracy, at the age of 16 he discovered a talent for programming, at that time he didn't know where he would end up, but he knew that this spectacular profession would be the one of his life. At Senai he developed in a basic way, then at the university he learned that the universe of programming is very vast. It went beyond looking for new technologies such as PHP, MySQL, JavaScript, jQuery, Ajax, Node.JS, CSS3, SASS, BootStrap, among others. Today he applies all his knowledge at River / F to develop small, medium and complex applications in the digital environment.
+José Paiva, always liked accuracy, at the age of 16 he discovered a talent for programming, at that time he didn't know where he would end up, but he knew that this spectacular profession would be the one of his life. At Senai he developed in a basic way, then at the university he learned that the universe of programming is very vast. It went beyond looking for new technologies such as PHP, MySQL, JavaScript, jQuery, Ajax, Node.JS, CSS3, SASS, BootStrap, among others. 
 
 
 - 💻 I am an entrepreneur and work as a front-end back-end freelancer
