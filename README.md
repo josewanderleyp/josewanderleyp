@@ -3,7 +3,7 @@
 [![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)](#top)
 
 ##### Hey, 👋
-### José Wanderley | 27 yo ###
+### José Wanderley | 29 yo ###
 
 <br>
 
@@ -13,7 +13,7 @@ José Paiva, always liked accuracy, at the age of 16 he discovered a talent for 
 - 💻 I am an entrepreneur and work as a front-end back-end freelancer
 - 🚀 Currently studying new technologies like ReactJS and ReactNative
 - 👯 Looking for new challenges and opportunities in front-end and back-end dev
-- 💬 Ask me about: WordPress, HTML, CSS, SCSS, Node.JS, jQuery, MySQL, Laravel, Codeigniter [...]
+- 💬 Ask me about: Laravel, Redis, AWS, ECS, SQS, WordPress, HTML5, CS3, SCSS, Node.JS, jQuery, MySQL, Codeigniter [...]
 - ⚡Curiosities: I'm passionate about technology | I like old cars.
 
 <br>
