@@ -24,7 +24,7 @@ José Paiva, always liked accuracy, at the age of 16 he discovered a talent for 
 
 <br>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=0077B5&logo=Linkedin&Color=FFFFFF)](https://www.linkedin.com/in/jos%C3%A9-wanderley-de-paiva-junior-33aa8516b/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=0077B5&logo=Linkedin&Color=FFFFFF)]([https://www.linkedin.com/in/jos%C3%A9-wanderley-de-paiva-junior-33aa8516b/](https://www.linkedin.com/in/jos%C3%A9-w-de-paiva-junior-33aa8516b/))
 [![Twitter](https://img.shields.io/badge/-WhatsApp-128C7E?style=for-the-badge&labelColor=128C7E&logo=WhatsApp&logoColor=FFFFFF&Color=111111)](https://wa.me/5543984182151)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=Instagram&logoColor=FFFFFF&Color=111111)](https://www.instagram.com/josewpaivajr/)
 
